@@ -1,0 +1,32 @@
+h1{
+    color: #FDB813;
+}
+.container{
+    /* border: 1px solid blue; */
+    text-align: center;
+}
+.input_box{
+    /* border: 1px solid green; */
+    display: flex;
+    justify-content: center;
+}
+.weatherInfo{
+    font-weight: bolder;
+    color: white;
+    font-size: x-large;
+}
+span{
+    font-size: xx-large;
+    color: #2c7da0;
+    font-weight: 900;
+}
+#location{
+    font-weight: bold;
+    color: green;
+    font-size: xx-large;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+}
